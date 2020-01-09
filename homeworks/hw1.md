@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: Homework 1
+title: HW 1
 ---
 
 Homework 1

@@ -14,7 +14,7 @@ Asaf Cidon \\
 OH: By appointment
 
 ## Location and Time
-? \\
+To be determined. \\
 Mondays 4:10pm - 6:40pm
 
 ## TAs
@@ -104,6 +104,6 @@ Some background in Computer Systems and some familiarity with Python
 </tbody>
 </table>
 
-## Assignments
+## Grade Breakdown
 
 ## Collaboration/Copying Policy
