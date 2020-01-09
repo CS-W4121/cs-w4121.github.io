@@ -4,7 +4,6 @@
 
 layout: default
 ---
-
 # CS4121 - Computer Systems for Data Science
 
 ## Course Overview:
@@ -108,3 +107,4 @@ Some background in Computer Systems and some familiarity with Python
 ## Assignments
 
 ## Collaboration/Copying Policy
+
