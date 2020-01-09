@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
 ---
 # CS4121 - Computer Systems for Data Science
+----
 
 ## Course Overview:
 An introduction to computer architecture and distributed systems with an emphasis on warehouse scale computing systems. Topics will include fundamental tradeoffs in computer systems, hardware and software techniques for exploiting instruction-level parallelism, data-level parallelism and task level parallelism, scheduling, caching, prefetching, network and memory architecture, latency and throughput optimizations, specialization, and an introduction to programming data center computers. 
