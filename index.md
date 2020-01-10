@@ -14,7 +14,7 @@ title: Home
 
 CS4121 - Computer Systems for Data Science 
 {: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
-Columbia University
+Spring '20, Columbia University
 {: style="color:black; font-size: 130%; text-align: center;"}
 ----
 

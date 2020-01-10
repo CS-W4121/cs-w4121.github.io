@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: "hw"
 title: HW 1
 ---
 
