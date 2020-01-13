@@ -2,7 +2,8 @@
 layout: "default"
 title: HW3
 ---
-
+Assignment 3
+{: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
 # Tensorflow
 
 Tensorflow is a library commonly used for deep learning applications. In this homework, we will focus on the **systems** aspects of Tensorflow. We will discuss checkpointing, distributed training, and training on different hardware. 
