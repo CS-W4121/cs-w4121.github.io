@@ -98,7 +98,7 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Mar 23</td>
 <td markdown="span">Scaling</td>
-<th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+<th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw2.md %})</th>
 
 </tr>
 <tr>
@@ -116,7 +116,7 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Apr 20</td>
 <td markdown="span">Tensorflow </td>
-<th rowspan="3" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+<th rowspan="3" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw3.md %})</th>
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
