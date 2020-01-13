@@ -130,7 +130,10 @@ Students are expected to have solid programming experience in Python or with an 
 </table>
 
 ## Grade Breakdown
-60% Homework (Written + Programming) \\
+20% Programming Homework 1 \\
+10% Written Homework \\
+20% Programming Homework 2 \\
+10% Programming Homework 3 \\
 15% Midterm \\
 25% Final
 
