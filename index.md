@@ -19,7 +19,14 @@ Spring '20, Columbia University
 ----
 
 ## Course Overview
-An introduction to computer architecture and distributed systems with an emphasis on warehouse scale computing systems. Topics will include fundamental tradeoffs in computer systems, hardware and software techniques for exploiting instruction-level parallelism, data-level parallelism and task level parallelism, scheduling, caching, prefetching, network and memory architecture, latency and throughput optimizations, specialization, and an introduction to programming data center computers. 
+Data scientists and engineers increasingly have access to a powerful and broad range of systems they use to conduct big data analysis and machine learning at scale: from databases, large-scale analytics to distributed machine learning frameworks.
+The goal of this class is to provide data scientists and engineers that work with big data a better understanding of the foundations of how the systems they will be using are built. It will also give them a better understanding of the real-world performance, availability and scalability challenges when using and deploying these systems at scale. In the course we will cover foundational ideas in designing these systems, while focusing on specific popular systems that students are likely to encounter at work or when doing research. The class will include some written homework and programming assignments. Some of the assignments will be done in groups.
+In this course we will answer the following questions:
+<ul>
+  <li>How are popular big data systems designed and architected? </li>
+  <li>How to think about performance, scale and reliability of big data systems? </li>
+  <li>How do they remain available and not lose data despite frequent server and hardware failures? </li>
+</ul>
 {: .text-justify}
 
 ## Instructor
@@ -31,14 +38,12 @@ To be determined. \\
 Mondays 4:10pm - 6:40pm
 
 ## TAs
-Hongyi Wang (Lead TA) (hw2727) \\
-Yu Jian Wu
+TBD \\
 
 ## Prerequisites
-Some background in Computer Systems and some familiarity with Python
+Students are expected to have solid programming experience in Python or with an equivalent programming language. This class is intended to be accessible for data scientists who do not necessarily have a background in databases, operating systems or distributed systems.
 
-
-## Schedule
+## Schedule (this is a work in progress, and is likely to change)
 
 
 <table>
@@ -58,72 +63,79 @@ Some background in Computer Systems and some familiarity with Python
 <tr>
 <td markdown="span">Jan 27</td>
 <td markdown="span">Introduction</td>
-<th rowspan="5" markdown="1">[Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+
 </tr>
 <tr>
 <td markdown="span">Feb 3</td>
-<td markdown="span">SQL </td>
+<td markdown="span">Infrastructure for Big Data</td>
+<th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
 </tr>
 <tr>
-<td markdown="span">Feb 10</td>
-<td markdown="span">SQL </td>
+<td markdown="span">TBD (need to reschedule Feb 10)</td>
+<td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
 <td markdown="span">Feb 17</td>
-<td markdown="span">NoSQL </td>
+<td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
 <td markdown="span">Feb 24</td>
 <td markdown="span">NoSQL </td>
+<th rowspan="3" markdown="1">[Written Homework]</th>
 </tr>
 <tr>
 <td markdown="span">Mar 2</td>
-<td markdown="span">Query Optimization </td>
-<th rowspan="5" markdown="1">[Homework 2]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+<td markdown="span">Storage and Distributed File Systems </td>
 </tr>
 <tr>
 <td markdown="span">Mar 9</td>
-<td markdown="span">File Systems</td>
+<td markdown="span">Midterm</td>
 </tr>
 <tr>
 <td markdown="span">Mar 16</td>
-<td markdown="span">NVRAM </td>
+<td markdown="span">Spring Break </td>
 </tr>
 <tr>
 <td markdown="span">Mar 23</td>
-<td markdown="span">Dataflow Modeling</td>
+<td markdown="span">Scaling</td>
+<th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+
 </tr>
 <tr>
 <td markdown="span">Mar 30</td>
-<td markdown="span">Day </td>
+<td markdown="span">MapReduce and Stragglers </td>
 </tr>
 <tr>
 <td markdown="span">Apr 6</td>
-<td markdown="span">Day </td>
-<th rowspan="5" markdown="1">[Homework 3]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+<td markdown="span">Spark </td>
 </tr>
 <tr>
 <td markdown="span">Apr 13</td>
-<td markdown="span">Day </td>
+<td markdown="span">Caching </td>
 </tr>
 <tr>
 <td markdown="span">Apr 20</td>
-<td markdown="span">Day </td>
+<td markdown="span">Tensorflow </td>
+<th rowspan="3" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
-<td markdown="span">Day </td>
+<td markdown="span">Data Pipelines </td>
+</tr>
+<tr>
+<td markdown="span">May 4</td>
+<td markdown="span">Security and Privacy </td>
 </tr>
 </tbody>
 </table>
 
 ## Grade Breakdown
-100% Participation \\
-100% Homework (Written + Programming) \\
-100% Midterm \\
-100% Final
+60% Homework (Written + Programming) \\
+15% Midterm \\
+25% Final
 
 ## Collaboration/Copying Policy
+Programming assignment will be done in pairs and written assignment will be done alone. You may not copy answers and code. We will enforce this policy when checking the assignments.
 
 ## Course Materials
 No textbook.
