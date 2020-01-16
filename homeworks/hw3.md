@@ -67,10 +67,10 @@ user    1m37.850s
 sys     0m4.705s
 ```
 **Deliverables:**
-.* Completion time of the training task.
-.* Average examples per second during training
-.* Final accuracy of evaluation.
-.* Loss of the model.
+- Completion time of the training task.
+- Average examples per second during training
+- Final accuracy of evaluation.
+- Loss of the model.
 
 
 2) We are going to continue to run more training runs. Note that we should have saved a checkpoint. So our job will be continued from this checkpoint. The step number should start from 1000 onwards. The following command will run until the number of global steps is 2000. 
@@ -83,10 +83,10 @@ python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
 Once again, time this training run and also note any evaluation accuracies that occur.  
 
 **Deliverables:**
-.* Completion time of the training task.
-.* Average examples per second during training
-.* Final accuracy of evaluation.
-.* Loss of the model.
+- Completion time of the training task.
+- Average examples per second during training
+- Final accuracy of evaluation.
+- Loss of the model.
 
 3) Consider changing the --job-dir parameter, since otherwise, it would use the last model. Add more checkpoints. This can be done by adding another parameter to the function.
 ```
@@ -99,10 +99,10 @@ python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
 The default for checkpoint number of steps is 1000. Once again, calculate the time taken to run this value. What is the relationship between the frequency of checkpoints and the time taken for the training run?
 
 **Deliverables:**
-.* Completion time of the training task.
-.* Average examples per second during training
-.* Final accuracy of evaluation.
-.* Loss of the model.
+- Completion time of the training task.
+- Average examples per second during training
+- Final accuracy of evaluation.
+- Loss of the model.
 
 # Distributed Training
 We are going to use AI-Platform for the second part of this assignment. 
@@ -147,7 +147,7 @@ gcloud ai-platform jobs submit training $JOB_NAME \
 We briefly describe what is happening here. `set -euxo pipefail` ensures that if a command in the script fails, then the whole script fails. The lines that include `CURRENT_DATE`, `JOB_NAME`, `MY_BUCKET` involve setting the variables. In particular, `MY_BUCKET` has to be set to a Google storage bucket. THe next line is what submits the job to AI-Platform for training. Note that we are still allowed to change the settings below the empty `--`, which allows us to pass in the arguments for the `cifar10_main` program here. To replicate a job, the module-name has to include a `Trainer` package, such that the program then know what to do during the training process. 
 
 **Deliverables:**
-.* Logs of the training task.
+- Logs of the training task.
 
 6) Next, look at `cifar10_estimator/cmle_config.yaml`. It should be something like:
 ```
@@ -163,15 +163,15 @@ This is the settings used to run our job. The job has a master server, worker se
 For this question, we want to run this with 2 parameter servers and 4 workers. 
 
 **Deliverables:**
-.* Logs of the training task.
-.* Your `cmle_config.yaml` file. 
+- Logs of the training task.
+- Your `cmle_config.yaml` file. 
 
 7) Finally, run once more, this time with GPU. To do this, you will have to change the machine type to `complex_model_gpu`. 
 For this, we also want to change the --num_gpus parameters to be 4 in the `train-cloud.sh` file. 
 
 **Deliverables:**
-.* Logs of the training task.
-.* Your `cmle_config.yaml` file. 
+- Logs of the training task.
+- Your `cmle_config.yaml` file. 
 
 # Submission Instructions
 
