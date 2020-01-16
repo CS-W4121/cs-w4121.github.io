@@ -66,6 +66,12 @@ real    0m10.294s
 user    1m37.850s
 sys     0m4.705s
 ```
+**Deliverables:**
+..* Completion time of the training task.
+..* Average examples per second during training
+..* Final accuracy of evaluation.
+..* Loss of the model.
+
 
 2) We are going to continue to run more training runs. Note that we should have saved a checkpoint. So our job will be continued from this checkpoint. The step number should start from 1000 onwards. The following command will run until the number of global steps is 2000. 
 ```
@@ -75,6 +81,12 @@ python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
                        --train-steps=2000
 ```
 Once again, time this training run and also note any evaluation accuracies that occur.  
+
+**Deliverables:**
+..* Completion time of the training task.
+..* Average examples per second during training
+..* Final accuracy of evaluation.
+..* Loss of the model.
 
 3) Consider changing the --job-dir parameter, since otherwise, it would use the last model. Add more checkpoints. This can be done by adding another parameter to the function.
 ```
@@ -86,6 +98,12 @@ python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
 ```
 The default for checkpoint number of steps is 1000. Once again, calculate the time taken to run this value. What is the relationship between the frequency of checkpoints and the time taken for the training run?
 
+**Deliverables:**
+..* Completion time of the training task.
+..* Average examples per second during training
+..* Final accuracy of evaluation.
+..* Loss of the model.
+
 # Distributed Training
 We are going to use AI-Platform for the second part of this assignment. 
 
@@ -94,6 +112,8 @@ We first begin by running `gcloud init` in the terminal. Choose the option that 
 
 You will also need to create a storage bucket. This will be where checkpoints and models are saved. We can do this from the console. Change the line in train-cloud.sh, MY_BUCKET= to the address of your bucket. The line should read something like
 `MY_BUCKET=“gs://my-bucket/“` 
+
+## How to Obtain Logs
 
 5) After setup is done, run
 `bash train-cloud.sh`
@@ -126,6 +146,9 @@ gcloud ai-platform jobs submit training $JOB_NAME \
 ```
 We briefly describe what is happening here. `set -euxo pipefail` ensures that if a command in the script fails, then the whole script fails. The lines that include `CURRENT_DATE`, `JOB_NAME`, `MY_BUCKET` involve setting the variables. In particular, `MY_BUCKET` has to be set to a Google storage bucket. THe next line is what submits the job to AI-Platform for training. Note that we are still allowed to change the settings below the empty `--`, which allows us to pass in the arguments for the `cifar10_main` program here. To replicate a job, the module-name has to include a `Trainer` package, such that the program then know what to do during the training process. 
 
+**Deliverables:**
+..* Logs of the training task.
+
 6) Next, look at `cifar10_estimator/cmle_config.yaml`. It should be something like:
 ```
 trainingInput:
@@ -137,17 +160,18 @@ trainingInput:
 ```
 This is the settings used to run our job. The job has a master server, worker servers and a parameter server. The master server is in charge of all the communication. In our setting, where what we are doing is synchronous training, the master server is in charge of sending the jobs to the workers. Note, for example, what happens with the step numbers across the different workers. 
 
+For this question, we want to run this with 2 parameter servers and 4 workers. 
 
-7) Finally, run once more, this time with GPU. The settings should look something like:
-```
-trainingInput:
-    scaleTier: CUSTOM
-    masterType: complex_model_m_gpu 
-    workerType: complex_model_m_gpu 
-    parameterServerType: complex_model_m_gpu 
-    workerCount: 1
-```
+**Deliverables:**
+..* Logs of the training task.
+..* Your `cmle_config.yaml` file. 
+
+7) Finally, run once more, this time with GPU. To do this, you will have to change the machine type to `complex_model_gpu`. 
 For this, we also want to change the --num_gpus parameters to be 4 in the `train-cloud.sh` file. 
+
+**Deliverables:**
+..* Logs of the training task.
+..* Your `cmle_config.yaml` file. 
 
 # Submission Instructions
 
