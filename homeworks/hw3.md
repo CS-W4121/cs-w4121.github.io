@@ -1,7 +1,3 @@
----
-layout: "default"
-title: HW3
----
 Assignment 3
 {: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
 ----
