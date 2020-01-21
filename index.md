@@ -29,7 +29,7 @@ Asaf Cidon \\
 OH: By appointment
 
 ## Location and Time
-To be determined. \\
+501 Northwest Corner Building. \\
 Mondays 4:10pm - 6:40pm
 
 ## TAs
