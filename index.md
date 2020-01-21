@@ -35,6 +35,9 @@ Mondays 4:10pm - 6:40pm
 ## TAs
 TBD \\
 
+## Piazza Link
+https://piazza.com/class/k5o2sby3t2e2pb
+
 ## Prerequisites
 Students are expected to have solid programming experience in Python or with an equivalent programming language. This class is intended to be accessible for data scientists who do not necessarily have a background in databases, operating systems or distributed systems.
 
