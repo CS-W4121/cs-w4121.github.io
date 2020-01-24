@@ -33,11 +33,11 @@ OH: By appointment
 Mondays 4:10pm - 6:40pm
 
 ## TAs
-Hongyi Wang -- Mon 12:00pm - 2:00pm
-Qianrui Zhan -- Tue 9am - 11am
-Yujian Wu -- Wed 4pm - 6pm 
-Ke Li -- Thu 2pm - 4pm
-Mingen Pan -- Fri 4pm -6pm
+Hongyi Wang -- Mon 12:00pm - 2:00pm \\
+Qianrui Zhan -- Tue 9am - 11am \\
+Yujian Wu -- Wed 4pm - 6pm \\
+Ke Li -- Thu 2pm - 4pm \\
+Mingen Pan -- Fri 4pm -6pm \\
 
 ## Piazza Link
 [https://piazza.com/class/k5o2sby3t2e2pb](https://piazza.com/class/k5o2sby3t2e2pb)
