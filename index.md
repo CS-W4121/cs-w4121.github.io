@@ -34,7 +34,7 @@ Mondays 4:10pm - 6:40pm
 
 ## TAs
 Hongyi Wang -- Mon 12:00pm - 2:00pm \\
-Qianrui Zhan -- Tue 9am - 11am \\
+Qianrui Zhang -- Tue 9am - 11am \\
 Yujian Wu -- Wed 4pm - 6pm \\
 Ke Li -- Thu 2pm - 4pm \\
 Mingen Pan -- Fri 4pm -6pm 
