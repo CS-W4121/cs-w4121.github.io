@@ -35,8 +35,8 @@ Mondays 4:10pm - 6:40pm
 ## TAs
 Hongyi Wang -- Mon 12pm - 2pm \\
 Qianrui Zhang -- Tue 9am - 11am \\
-Yujian Wu -- Wed 4pm - 6pm \\
-Ke Li -- Thu 2pm - 4pm \\
+Yujian Wu -- Wed 2pm - 4pm \\
+Ke Li -- Thu 3pm - 5pm \\
 Mingen Pan -- Fri 4pm - 6pm 
 
 ## Piazza Link
