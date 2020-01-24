@@ -26,14 +26,14 @@ In this course we will answer the following questions:
 
 ## Instructor
 Asaf Cidon \\
-OH: By appointment
+OH: Mondays 2:30-3:30 PM
 
 ## Location and Time
 501 Northwest Corner Building. \\
 Mondays 4:10pm - 6:40pm
 
 ## TAs
-Hongyi Wang -- Mon 12:00pm - 2:00pm \\
+Hongyi Wang -- Mon 12pm - 2pm \\
 Qianrui Zhang -- Tue 9am - 11am \\
 Yujian Wu -- Wed 4pm - 6pm \\
 Ke Li -- Thu 2pm - 4pm \\
@@ -148,7 +148,7 @@ Students are expected to have solid programming experience in Python or with an 
 25% Final
 
 ## Collaboration/Copying Policy
-Programming assignment will be done in pairs and written assignment will be done alone. You may not copy answers and code. We will enforce this policy when checking the assignments.
+Programming assignment 1 and the written assignment will be done alone. Programming assignments 2-3 will be done in pairs . You may not copy answers and code. We will enforce this policy when checking the assignments (we use a code similarity system).
 
 ## Course Materials
 No textbook.
