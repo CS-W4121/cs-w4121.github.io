@@ -64,12 +64,12 @@ Students are expected to have solid programming experience in Python or with an 
 <tbody>
 <tr>
 <td markdown="span">Jan 27</td>
-<td markdown="span">Introduction</td>
+<td markdown="span"><a href="slides/Topic 1 - intro and rules of thumb.pptx">Introduction</a></p></td>
 
 </tr>
 <tr>
 <td markdown="span">Feb 3</td>
-<td markdown="span">Infrastructure for Big Data</td>
+<td markdown="span"><a href="slides/Topic 1 - intro and rules of thumb.pptx">Infrastructure for Big Data</td>
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
 -->
