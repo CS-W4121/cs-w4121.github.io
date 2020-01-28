@@ -36,6 +36,7 @@ Mondays 4:10pm - 6:40pm
 Hongyi Wang -- Mon 12pm - 2pm \\
 Qianrui Zhang -- Tue 9am - 11am \\
 Yujian Wu -- Wed 2pm - 4pm \\
+Junlin Song -- Wed 7:00pm - 9:00pm\\
 Ke Li -- Thu 3pm - 5pm \\
 Mingen Pan -- Fri 4pm - 6pm 
 
