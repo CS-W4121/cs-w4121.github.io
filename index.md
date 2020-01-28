@@ -26,7 +26,7 @@ In this course we will answer the following questions:
 
 ## Instructor
 Asaf Cidon \\
-OH: Mondays 2:30-3:30 PM
+OH: Mondays 2:30-3:30 PM (By appointment only)
 
 ## Location and Time
 501 Northwest Corner Building. \\
