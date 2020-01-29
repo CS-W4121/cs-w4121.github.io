@@ -33,7 +33,7 @@ OH: Mondays 2:30-3:30 PM (By appointment only)
 Mondays 4:10pm - 6:40pm
 
 ## TAs
-(All Office Hours Held in the CS TA Room)
+(All Office Hours Held in the CS TA Room) \\
 Hongyi Wang -- Mon 12pm - 2pm \\
 Qianrui Zhang -- Tue 9am - 11am \\
 Yujian Wu -- Wed 2pm - 4pm \\
