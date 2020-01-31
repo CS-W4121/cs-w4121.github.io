@@ -132,11 +132,11 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
-<td markdown="span">Data Pipelines </td>
+<td markdown="span">Data Pipelines / Security and Privacy </td>
 </tr>
 <tr>
 <td markdown="span">May 4</td>
-<td markdown="span">Security and Privacy </td>
+<td markdown="span">Final Exam</td>
 </tr>
 </tbody>
 </table>
