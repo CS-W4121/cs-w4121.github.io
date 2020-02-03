@@ -72,10 +72,10 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Feb 3</td>
 <td markdown="span"><a href="slides/Topic 1 - intro and rules of thumb.pptx">Infrastructure for Big Data [pptx]</td>
-<!---
 <th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
--->
+<!---
 <th rowspan="3" markdown="1">[Programming Homework 1]</th>
+-->
 </tr>
 <tr>
 <td markdown="span">TBD (need to reschedule Feb 10)</td>
