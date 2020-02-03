@@ -85,41 +85,41 @@ You will be asked to submit a CSV file for each question, and you could download
 
 2. (1 point) How many games were played in Columbia’s venue in the 2013-2014 season?
 
-| num  |
-| :--: |
-|      |
+   | num  |
+   | :--: |
+   |      |
 
 3. (1 point) Which teams have the highest attendance for a single game between seasons 2013-2018? Please show the top 3 ranking and display home_market, attendance, season.
 
-| h_market | attendance | season |
-| :------: | :--------: | :----: |
-|          |            |        |
-|          |            |        |
-|          |            |        |
+   | h_market | attendance | season |
+   | :------: | :--------: | :----: |
+   |          |            |        |
+   |          |            |        |
+   |          |            |        |
 
 
 
 4. (1 point) How many home games has Columbia won between seasons 2009-2017? Provide (number of games won, average score for Columbia in those games, average score of the opponents in those games) as your answer. Round any decimal values to two places.
 
-| number | avg_columbia | avg_opponent |
-| :----: | :----------: | :----------: |
-|        |              |              |
+   | number | avg_columbia | avg_opponent |
+   | :----: | :----------: | :----------: |
+   |        |              |              |
 
 
 
 5. (2 points) How many players have been on a team based in the same state where they were born? For this question, please only use the player’s birth state (do not include the player’s birth country)?
 
-| num_players |
-| :---------: |
-|             |
+   | num_players |
+   | :---------: |
+   |             |
 
 
 
 6. (2 points) What is the game with the highest total score (i.e., the sum of the score of both teams) in the historical tournament data? Output the winning team name, losing team name, winning team points, losing team points, and the combined score.
 
-| win_name | lose_name | win_pts | lose_pts | total_points |
-| :------: | :-------: | :-----: | :------: | :----------: |
-|          |           |         |          |              |
+   | win_name | lose_name | win_pts | lose_pts | total_points |
+   | :------: | :-------: | :-----: | :------: | :----------: |
+   |          |           |         |          |              |
 
 
 
@@ -129,17 +129,17 @@ __Definition__: An upset occurs whenever a team with seed A beats a team with se
 
 What percentage of total tournament games were upsets AND the winning team scored more than 60 points? Round to two decimal places. For example, if 50.2489% of games are upsets and the winning team was the away team, your query should return 50.25.
 
-| upset_percentage |
-| :--------------: |
-|                  |
+   | upset_percentage |
+   | :--------------: |
+   |                  |
 
 8. (3 points) Which pairs of NCAA basketball teams are 1) based in the same state and 2) both start with the same letter? Output the first three team names and the state. Put the team name that comes alphabetically first in each pair on the leftmost column, and order the rows alphabetically by the first column.
 
-| teamA | teamB | state |
-| :---: | :---: | :---: |
-|       |       |       |
-|       |       |       |
-|       |       |       |
+   | teamA | teamB | state |
+   | :---: | :---: | :---: |
+   |       |       |       |
+   |       |       |       |
+   |       |       |       |
 
 9. (3 points) 
 
