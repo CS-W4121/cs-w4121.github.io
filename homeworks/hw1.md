@@ -125,9 +125,9 @@ You will be asked to submit a CSV file for each question, and you could download
 
 7. (3 points) In a basketball tournament, teams are ranked from best to worst prior to starting the matches. This ranking is called the “seed” of the team (1 is the best team, and a higher number indicates a worse team). In general, a higher ranked team is expected to beat a lower ranked team.
 
-__Definition__: An upset occurs whenever a team with seed A beats a team with seed B, and A > B.
+   __Definition__: An upset occurs whenever a team with seed A beats a team with seed B, and A > B.
 
-What percentage of total tournament games were upsets AND the winning team scored more than 60 points? Round to two decimal places. For example, if 50.2489% of games are upsets and the winning team was the away team, your query should return 50.25.
+   What percentage of total tournament games were upsets AND the winning team scored more than 60 points? Round to two decimal places. For example, if 50.2489% of games are upsets and the winning team was the away team, your query should return 50.25.
 
    | upset_percentage |
    | :--------------: |
