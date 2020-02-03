@@ -78,7 +78,7 @@ Students are expected to have solid programming experience in Python or with an 
 -->
 </tr>
 <tr>
-<td markdown="span">TBD (need to reschedule Feb 10)</td>
+<td markdown="span">Tentatively Rescheduled: Feb 14 (Friday), 1:30-3:40 PM, location TBD</td>
 <td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
