@@ -66,12 +66,12 @@ Students are expected to have solid programming experience in Python or with an 
 <tbody>
 <tr>
 <td markdown="span">Jan 27</td>
-<td markdown="span">Introduction <a href="slides/Topic 1 - intro and rules of thumb part I">[pptx]</a></td>
+<td markdown="span">Introduction <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%201%20-%20intro%20and%20rules%20of%20thumb%20part%20I.pptx">[pptx]</a></td>
 
 </tr>
 <tr>
 <td markdown="span">Feb 3</td>
-<td markdown="span">Infrastructure for Big Data <a href="slides/Topic 1 - intro and rules of thumb part II"> [pptx]</a> Relational Model Part I <a href="slides/Topic 2 - relational model part I"> [pptx] </a></td>
+<td markdown="span">Infrastructure for Big Data <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%201%20-%20intro%20and%20rules%20of%20thumb%20part%20II.pptx"> [pptx]</a> Relational Model Part I <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20I.pptx"> [pptx] </a></td>
 <th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 1]</th>
