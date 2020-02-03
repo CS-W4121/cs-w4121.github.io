@@ -71,7 +71,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Feb 3</td>
-<td markdown="span">Infrastructure for Big Data <a href="slides/Topic 1 - intro and rules of thumb part II"> [pptx], Relational Model Part I <a href="slides/Topic 2 - relational model part I"> [pptx] </td>
+<td markdown="span">Infrastructure for Big Data <a href="slides/Topic 1 - intro and rules of thumb part II"> [pptx]</a> Relational Model Part I <a href="slides/Topic 2 - relational model part I"> [pptx] </a></td>
 <th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 1]</th>
