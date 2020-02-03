@@ -1,4 +1,4 @@
-# COMS4121 Programming Homework 1: SQL 
+# Programming Homework 1: SQL 
 
 Gain a hands-on understanding of Google BigQuery and SQL.
 
