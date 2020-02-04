@@ -78,7 +78,7 @@ Students are expected to have solid programming experience in Python or with an 
 -->
 </tr>
 <tr>
-<td markdown="span">Tentatively Rescheduled: Feb 14 (Friday), 1:30-3:40 PM, location TBD</td>
+<td markdown="span">Rescheduled: Feb 14 (Friday), 1:30-3:40 PM, 501 SCH (Schermerhorn)</td>
 <td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
