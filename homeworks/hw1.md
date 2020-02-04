@@ -99,7 +99,7 @@ You will be asked to submit a CSV file for each question, and you could download
 
 
 
-4. (1 point) How many home games has Columbia won between seasons 2009-2017? Provide (number of games won, average score for Columbia in those games, average score of the opponents in those games) as your answer. Round any decimal values to two places.
+4. (1 point) How many games has Columbia won between seasons 2009-2017? Provide (number of games won, average score for Columbia in those games, average score of the opponents in those games) as your answer. Round any decimal values to two places.
 
    | number | avg_columbia | avg_opponent |
    | :----: | :----------: | :----------: |
@@ -147,7 +147,7 @@ You will be asked to submit a CSV file for each question, and you could download
 
    __Definition__: A geographical location L “makes” points for a team T whenever a player that was born in L scores points for T. 
 
-   What __three__ geographical locations made the most points for Columbia’s team in seasons 2013 through 2017, and how many points did they make? 
+   What __three__ geographical locations made the most points for Columbia’s team in seasons 2013-2017, and how many points did they make? 
 
    Sort the top three based on alphabetical order of the city. 
 
