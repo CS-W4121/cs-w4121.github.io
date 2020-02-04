@@ -7,7 +7,7 @@ title: Home
 menu: main
 ---
 
-CS4121 - Computer Systems for Data Science 
+CSEE4121 - Computer Systems for Data Science 
 {: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
 Spring '20, Columbia University
 {: style="color:black; font-size: 130%; text-align: center;"}
