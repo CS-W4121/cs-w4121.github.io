@@ -87,7 +87,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Feb 24</td>
-<td markdown="span">NoSQL </td>
+<td markdown="span">Transactions </td>
 <th rowspan="3" markdown="1">[Written Homework]</th>
 </tr>
 <tr>
