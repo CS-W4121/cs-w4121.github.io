@@ -83,7 +83,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Rescheduled: Feb 17, 8:00 - 10:10 AM, 501 NWC</td>
-<td markdown="span">SQL and Relational Model </td>
+<td markdown="span">Transactions </td>
 </tr>
 <tr>
 <td markdown="span">Feb 24</td>
@@ -92,7 +92,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Mar 2</td>
-<td markdown="span">Storage and Distributed File Systems </td>
+<td markdown="span">Storage and Database Architecture </td>
 </tr>
 <tr>
 <td markdown="span">Mar 9</td>
@@ -104,7 +104,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Mar 23</td>
-<td markdown="span">Scaling</td>
+<td markdown="span">Distributed File Systems</td>
 <!---
 <th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw2.md %})</th>
 -->
