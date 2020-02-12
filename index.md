@@ -82,7 +82,7 @@ Students are expected to have solid programming experience in Python or with an 
 <td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
-<td markdown="span">Feb 17</td>
+<td markdown="span">Rescheduled: Feb 17, 8:00 - 10:10 AM, 501 NWC</td>
 <td markdown="span">SQL and Relational Model </td>
 </tr>
 <tr>
