@@ -79,7 +79,7 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Rescheduled: Feb 14 (Friday), 1:30-3:40 PM, 501 SCH (Schermerhorn)</td>
-<td markdown="span">SQL and Relational Model <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20II.pptx"> [pptx]   </td>
+<td markdown="span">SQL and Relational Model <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20II.pptx"> [pptx] <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20II.pdf"> [pdf]   </td>
 </tr>
 <tr>
 <td markdown="span">Rescheduled: Feb 17, 8:00 - 10:10 AM, 501 NWC</td>
