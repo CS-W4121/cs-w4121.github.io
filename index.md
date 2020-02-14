@@ -83,7 +83,8 @@ Students are expected to have solid programming experience in Python or with an 
 </tr>
 <tr>
 <td markdown="span">Rescheduled: Feb 17, 8:00 - 10:10 AM, 501 NWC</td>
-<td markdown="span">Transactions </td>
+<td markdown="span">Transactions </td> <>
+  <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx]<a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf]
 </tr>
 <tr>
 <td markdown="span">Feb 24</td>
