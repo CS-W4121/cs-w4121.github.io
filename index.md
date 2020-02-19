@@ -8,9 +8,9 @@ menu: main
 ---
 
 CSEE4121 - Computer Systems for Data Science 
-{: style="color:black; font-size: 190%; font-weight:700; text-align: center;"}
+{: style="color:black; font-size: 190%; font-weight:700; text-align: center; padding-top: 100px;"}
 Spring '20, Columbia University
-{: style="color:black; font-size: 130%; text-align: center;"}
+{: style="color:black; font-size: 130%; text-align: center; padding-bottom: 100px;"}
 ----
 
 ## Course Overview
