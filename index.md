@@ -106,9 +106,6 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Mar 23</td>
 <td markdown="span">Distributed File Systems and Databases</td>
-<!---
-<th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw2.md %})</th>
--->
 <th rowspan="4" markdown="1">[Programming Homework 2]</th>
 </tr>
 <tr>
