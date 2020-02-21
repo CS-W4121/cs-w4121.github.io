@@ -309,6 +309,7 @@ For example, a record can be represented as (A, Professor, 94).
 Consider a database with objects X and Y and assume that there are two transactions T1 and T2. T1 first reads X and Y and then writes object Y. T2 reads objects X and Y and then writes objects X and Y.
 
 a.
+
 | T1 | T2 |
 | :---: | :---: |
 | R(A) |     |
@@ -318,6 +319,7 @@ a.
 | R(A) |       |
 
 b. 
+
 | T1 | T2 |
 | :---: | :---: |
 | R(A)  |   |
@@ -331,6 +333,7 @@ b.
 
 
 c.
+
 | T1 | T2 |
 | :---: | :---: |
 | R(A)  |   |
@@ -343,6 +346,7 @@ c.
 | Commit |  |
 
 d.
+
 | T1 | T2 |
 | :---: | :---: |
 | W(A)  |   |
