@@ -308,10 +308,11 @@ For example, a record can be represented as (A, Professor, 94).
 
 Consider a database with objects X and Y and assume that there are two transactions T1 and T2. T1 first reads X and Y and then writes object Y. T2 reads objects X and Y and then writes objects X and Y.
 
+
 a.
 
 | T1 | T2 |
-| :------: | :------: |
+| :---: | :---: |
 | R(A) |     |
 |      | R(A)  |
 |      | W(A)  |
@@ -321,7 +322,7 @@ a.
 b. 
 
 | T1 | T2 |
-| :------:| :------:|
+| :---:| :---:|
 | R(A)  |   |
 |       |  R(A) |
 | W(A)  |  |
@@ -331,11 +332,10 @@ b.
 | Commit |  |
 |	| R(A) |
 
-
 c.
 
 | T1 | T2 |
-| :------: | :------: |
+| :---: | :---: |
 | R(A)  |   |
 | W(A)  | |
 |   | R(A) |
@@ -348,7 +348,7 @@ c.
 d.
 
 | T1 | T2 |
-| :------:| :------: |
+| :---:| :---: |
 | W(A)  |   |
 |  W(C) | |
 |    | W(A) |
@@ -356,6 +356,7 @@ d.
 |   | Commit |
 | W(B) |  |
 | Commit | |
+
 
 1. For each of the above schedules, which one is
 a. a read-write conflict
