@@ -2,7 +2,7 @@
 
 This is the first and only written HW for CSEE 4121. Please either type or scan your solutions to these problems. Submit your clear written solutions in PDF format on Gradescope (more details at the bottom). 
 
-Due Date: **March 4, 2020, 11:59 AM**
+Due Date: **March 4, 2020, 11:59 AM** (1 minute before noon!)
 
 # Question 1
 
