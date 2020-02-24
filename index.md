@@ -84,11 +84,12 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Rescheduled: Feb 17, 8:00 - 10:10 AM, 501 NWC</td>
 <td markdown="span">Transactions
-  <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx]<a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf] </a>  </td> 
+  <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf] </a>  </td> 
 </tr>
 <tr>
 <td markdown="span">Feb 24</td>
-<td markdown="span">Transactions </td>
+<td markdown="span">Transactions <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf] </a> 
+Single DB Architecture <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%204%20-%single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%204%20-%single%20DB%20architecture.pdf"> [pdf]</td>
 <th rowspan="3" markdown="1">[Written Homework]({{ site.baseurl }}{%link homeworks/WrittenHW1.md %})</th>
 </tr>
 <tr>
