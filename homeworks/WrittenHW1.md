@@ -17,7 +17,7 @@ Describe what the following SQL queries look to do in plain English:
 
 i)
 ```
-SELECT S.name, S.age 
+SELECT S.sname, S.age 
 FROM Students as S
 WHERE S.year > 2
 ```
