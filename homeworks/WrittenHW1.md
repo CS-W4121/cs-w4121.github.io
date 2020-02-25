@@ -306,8 +306,7 @@ For example, a record can be represented as (A, Professor, 94).
 
 # Question 13
 
-Consider a database with objects X and Y and assume that there are two transactions T1 and T2. T1 first reads X and Y and then writes object Y. T2 reads objects X and Y and then writes objects X and Y.
-
+Consider a database with objects A and B and assume that there are two transactions T1 and T2. Below, R is for read, W is for write and Commit is for committing the transaction.
 
 a.
 
