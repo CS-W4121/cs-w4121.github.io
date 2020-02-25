@@ -306,7 +306,7 @@ For example, a record can be represented as (A, Professor, 94).
 
 # Question 13
 
-Consider a database with objects A and B and assume that there are two transactions T1 and T2. Below, R is for read, W is for write and Commit is for committing the transaction.
+Consider a database with objects A and B and assume that there are two transactions T1 and T2. Below, R is for read, W is for write, Commit is for committing the transaction, and Abort is for aborting the transaction.
 
 a.
 
@@ -342,7 +342,7 @@ c.
 |   | Commit |
 | R(B) |  |
 | W(B)  |    |
-| Commit |  |
+| Abort |  |
 
 d.
 
