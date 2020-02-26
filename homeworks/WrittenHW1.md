@@ -360,7 +360,7 @@ a. a read-write conflict
 b. a write-read conflict
 c. a write-write conflict
 d. a schedule without a conflict
-2. For each of the above schedules, show that Strict 2PL disallows these schedules.
+2. For each of the above schedules that have a conflict, show that Strict 2PL disallows these schedules.
 3. Why is there no such thing as a read-read conflict?
 
 # Question 14
