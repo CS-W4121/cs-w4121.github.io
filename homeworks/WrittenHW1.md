@@ -255,8 +255,8 @@ We first describe the memory hierarchy. Suppose that we have a latency to the CP
 A computer systems is using a magnetic disk (hard disk) as storage. Suppose that the hard disk has a capacity of 300 GB, an RPM (rotations per minute) of 10000, an average seek of 4ms, and a max transfer rate of 100MB/s. 
 
 1. First calculate T_{rot}, the time per rotation. 
-2. Calculate T_{transfer}, the time taken to transfer a 4kB page.
-3. Assuming that we are reading from random positions on disk, what is the T_{I/O} or time to perform one I/O operation of a 4kB read? What is thus the rate of I/O, under a random workload, in MB/sec?
+2. Calculate T_{transfer}, the time taken to transfer a 4KB page.
+3. Assuming that we are reading from random positions on disk, what is the T_{I/O} or time to perform one I/O operation of a 4KB read? What is thus the rate of I/O, under a random workload, in MB/sec?
 4. Assume that we are reading 4kB pages sequentially on disk. What is different about the necessary I/Os to accomplish this task? What is thus the rate of I/O, under a sequential workload, file in MB/sec? What is the time taken to transfer a 125MB file. 
 
 # Question 11
