@@ -148,7 +148,6 @@ A = {2, 1, 3}, B = {3, 1, 4}, C = {2, 1, 3, 1}, D = {1, x, y}.
 1. What is A U B, where U is union? <br/>
 2. What is B U A? <br/>
 3. What is D U C? <br/>
-4. What is C * D, where * is cross-product? <br/>
 
 # Question 4
 
