@@ -1,4 +1,3 @@
-# Collaborators: Fill in names and SUNetIDs here
 
 def query_one():
     """Query for Columbia's venue"""
