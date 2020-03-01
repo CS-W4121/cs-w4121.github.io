@@ -72,7 +72,7 @@ Students are expected to have solid programming experience in Python or with an 
 <tr>
 <td markdown="span">Feb 3</td>
 <td markdown="span">Infrastructure for Big Data <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%201%20-%20intro%20and%20rules%20of%20thumb%20part%20II.pptx"> [pptx]<a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%201%20-%20intro%20and%20rules%20of%20thumb%20part%20II.pdf"> [pdf]</a> Relational Model Part I <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20I.pptx"> [pptx]<a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%202%20-%20relational%20model%20part%20I.pdf"> [pdf] </a></td>
-<th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %})</th>
+<th rowspan="3" markdown="1">[Programming Homework 1]({{ site.baseurl }}{%link homeworks/hw1.md %}) <a href="https://raw.githubusercontent.com/CS-W4121/cs-w4121.github.io/master/homeworks/project1_submission%20-%20solution.py"> [TA-Solution]</th></th>
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 1]</th>
 -->
@@ -90,7 +90,7 @@ Students are expected to have solid programming experience in Python or with an 
 <td markdown="span">Feb 24</td>
 <td markdown="span">Transactions <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf] </a> 
 Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pdf"> [pdf]</td>
-<th rowspan="3" markdown="1">[Written Homework]({{ site.baseurl }}{%link homeworks/WrittenHW1.md %}) <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [TA-Solution]</th>
+<th rowspan="3" markdown="1">[Written Homework]({{ site.baseurl }}{%link homeworks/WrittenHW1.md %}) 
 </tr>
 <tr>
 <td markdown="span">Mar 2</td>
