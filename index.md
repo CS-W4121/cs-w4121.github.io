@@ -94,7 +94,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Mar 2</td>
-<td markdown="span">DB Architecture </td>
+<td markdown="span">DB Architecture <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pdf"> [pdf] </td>
 </tr>
 <tr>
 <td markdown="span">Mar 9</td>
