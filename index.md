@@ -90,7 +90,9 @@ Students are expected to have solid programming experience in Python or with an 
 <td markdown="span">Feb 24</td>
 <td markdown="span">Transactions <a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/raw/master/slides/Topic%203%20-%20transactions%20and%20ACID.pdf"> [pdf] </a> 
 Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pdf"> [pdf]</td>
-<th rowspan="3" markdown="1">[Written Homework]({{ site.baseurl }}{%link homeworks/WrittenHW1.md %}) </th>
+<th rowspan="3" markdown="1">[Written Homework]({{ site.baseurl }}{%link homeworks/WrittenHW1.md %}) 
+  <a href="https://raw.githubusercontent.com/CS-W4121/cs-w4121.github.io/master/homeworks/project1_submission%20-%20solution.py"> [TA-Solution]
+    </th>
 </tr>
 <tr>
 <td markdown="span">Mar 2</td>
