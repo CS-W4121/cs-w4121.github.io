@@ -336,6 +336,8 @@ Consider a database with objects X and Y and assume that there are two transacti
 
 2
 
+*There was a lot of confusion about disallows on this part. The idea is that strict 2PL prevents the sequence of steps in the interleaved schedule from looking exactly like it does. More clearly, by some locking mechanism or another, there is no way for transactions to proceed with the schedule since it is either waiting for or cannot get access to a lock.*
+
  - a) T2 tries to get a shared lock for W(A), but T1 already has it.
  - c) T2 tries to get the shared lock for R(A), but T1 already has an exclusive lock for W(A).
  - d) T1 gets an exclusive lock for W(A) and W(C), but T2 wants a exclusive lock for W(A).
