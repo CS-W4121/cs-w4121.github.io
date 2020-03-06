@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /writtensols
+published: false
 ---
 
 # Written HW Solutions
