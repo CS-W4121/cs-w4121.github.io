@@ -394,6 +394,8 @@ Consider T is splitted into T1 and T2. Assume T1 accesses only X and T2 accesses
 
 *Note: The problem doesn't concern atomicity as it only cares if the **combined results** for spllited transactions altogether has the same and consistent result as the original one. Whether results of spllited transactions will be applied atomicitly can be taken care of by the DBMS. Credit will be given for the assumption that atomicity is not handled by DBMS.*
 
+*Note: Jerry aims to improve the performance in case of conflicts by reducing waiting time incurred by conflicts (recall lock acquiring time in 2PL for a transaction). His method parallelizes transactions and reduces lock acquiring time as much as possible. Conflicts still exist due to the nature of operations of related transactions and total number of locks acquired won't change as well. Jerry didn't mean to eliminate conflicts and existing conflicts doesn't nesessarily lead to deadlock.*
+
 # Question 16
 
 A database is usually replicated on multiple sites for better performance. Suppose a transaction executing from a cellphone visits different replicas and reads and writes (parts of) the database.
