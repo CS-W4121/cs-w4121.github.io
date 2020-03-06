@@ -197,7 +197,7 @@ Consider tables or relations R and S where R has n tuples and S has m tuples, wi
 1. max: n + m, min: n
 2. max: m, min: 0
 3. max: n * m, min: 0
-4. max: m^2, min: m
+4. max: m^2, min: m, we also accept min:0, max m
 5. max: n, min: n-m
 6. max: m, min: 0
 
