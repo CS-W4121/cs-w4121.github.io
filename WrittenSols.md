@@ -338,7 +338,7 @@ Consider a database with objects X and Y and assume that there are two transacti
 
  - a) T2 tries to get a shared lock for W(A), but T1 already has it.
  - c) T2 tries to get the shared lock for R(A), but T1 already has an exclusive lock for W(A).
- - d) T1 gets an exclusive lock for W(A) and W(C), but T2 wants a exclusive lock for R(A).
+ - d) T1 gets an exclusive lock for W(A) and W(C), but T2 wants a exclusive lock for W(A).
 
 3
 
