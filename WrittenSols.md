@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /writtensols
+---
+
 # Written HW Solutions
 
 # Question 1
