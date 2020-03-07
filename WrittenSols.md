@@ -122,7 +122,7 @@ For all these solutions, any order is acceptable (i.e., {1, 2, 3, 4} or {2, 4, 1
 
 1. {1, 2, 3, 4}
 2. {1, 2, 3, 4}
-3. {1, 1, 1, 2, 3, x, y}
+3. {1, 1, 2, 3, x, y}
 
 
 # Question 4
