@@ -263,8 +263,8 @@ A computer systems is using a magnetic disk (hard disk) as storage. Suppose that
 **Solutions**
 
 1. 60/10000 s = 6 ms
-2. 4kb/100MB/s = 4000/100*10^6 = 40 {mu}sec
-3. Add them up. T_{i/o} = 6ms / 2 + 4 ms + 40mu = 7.040. (half rotation).  R_{i/o} = 4kb/(T_{i/o}) = 0.568 MB/s.
+2. 4kb/100MB/s = 4/1024/100*10^6 = 39 {mu}sec
+3. Add them up. T_{i/o} = 6ms / 2 + 4 ms + 39mu = 7.039. (half rotation).  R_{i/o} = 4kb/1024/(T_{i/o}) = 0.555 MB/s.
 4. 100MB/s. 125/100 = 1.25 sec approximately. If include the one movement, 1.257 sec. 1.25/1.257 = 99.44 MB/s
 
 # Question 11
