@@ -253,7 +253,7 @@ We first describe the memory hierarchy. Suppose that we have a latency to the CP
 
 1. 9 ns
 2. 0.95 * 5 + 0.05 * 1000000 = 50004.75 ns
-3. 0.85 * 25 + 0.15 * 1000 = 150021.25 ns
+3. 0.85 * 25 + 0.15 * 1000000 = 150021.25 ns
 
 # Question 10
 A computer systems is using a magnetic disk (hard disk) as storage. Suppose that the hard disk has a capacity of 300 GB, an RPM (rotations per minute) of 10000, an average seek of 4ms, and a max transfer rate of 100MB/s. 
@@ -265,7 +265,7 @@ A computer systems is using a magnetic disk (hard disk) as storage. Suppose that
 1. 60/10000 s = 6 ms
 2. 4kb/100MB/s = 4/1024/100*10^6 = 39 {mu}sec
 3. Add them up. T_{i/o} = 6ms / 2 + 4 ms + 39mu = 7.039. (half rotation).  R_{i/o} = 4kb/1024/(T_{i/o}) = 0.555 MB/s.
-4. 100MB/s. 125/100 = 1.25 sec approximately. If include the one movement, 1.257 sec. 1.25/1.257 = 99.44 MB/s
+4. 125/100 = 1.25 sec approximately. If include the one movement, 1.257 sec. 125/1.257 = 99.44 MB/s
 
 # Question 11
 Suppose that we have a rack that we are using to host our website. The rack consists of 42U. Assume that each network switch uses 10 watts and that each server uses 200 watts. Suppose that we have a Total Facility Power of 6000. What is the PUE of the following configurations?
