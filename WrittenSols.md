@@ -104,7 +104,7 @@ vii)
 |:------------:|:------------:|:----:|:-----------:|:------------:|:------------:|:------------:|
 | Gizmo | Wiz | Gizmo        | $19.99          | $16.99  | Gadgets | GWorks |
 | PowerGizmo | Ritz | PowerGizmo | $29.99 | $25.99 | Gadgets | GWorks | 
-| Camera | Wiz | Camera | NULL | NULL | NULL | NULL |
+| Camera | Wiz | NULL | NULL | NULL | NULL | NULL |
 
 # Question 3
 
