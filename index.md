@@ -100,32 +100,32 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Mar 9</td>
-<td markdown="span">Midterm</td>
+<td markdown="span">Cancelled</td>
 </tr>
 <tr>
 <td markdown="span">Mar 16</td>
-<td markdown="span">Spring Break </td>
+<td markdown="span">Spring Break</td>
 </tr>
 <tr>
 <td markdown="span">Mar 23</td>
-<td markdown="span">Distributed File Systems and Databases</td>
-<th rowspan="4" markdown="1">[Programming Homework 2]</th>
+<td markdown="span">Cancelled</td>
 </tr>
 <tr>
 <td markdown="span">Mar 30</td>
-<td markdown="span">MapReduce and Stragglers </td>
+<td markdown="span">Distributed File Systems and Databases </td>
+ <th rowspan="3" markdown="1">[Programming Homework 2]</th>
 </tr>
 <tr>
 <td markdown="span">Apr 6</td>
-<td markdown="span">Spark </td>
+<td markdown="span">Distributed Databases and MapReduce</td>
 </tr>
 <tr>
 <td markdown="span">Apr 13</td>
-<td markdown="span">Caching </td>
+<td markdown="span">Spark </td>
 </tr>
 <tr>
 <td markdown="span">Apr 20</td>
-<td markdown="span">Tensorflow </td>
+<td markdown="span">Caching </td>
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw3.md %})</th>
 -->
@@ -133,7 +133,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
-<td markdown="span">Data Pipelines / Security and Privacy </td>
+<td markdown="span">Tensorflow </td>
 </tr>
 <tr>
 <td markdown="span">May 4</td>
