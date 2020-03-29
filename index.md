@@ -44,6 +44,9 @@ Mingen Pan -- Fri 4pm - 6pm
 ## Piazza Link
 [https://piazza.com/class/k5o2sby3t2e2pb](https://piazza.com/class/k5o2sby3t2e2pb)
 
+## Zoom Link
+[https://columbiauniversity.zoom.us/j/830683709](https://columbiauniversity.zoom.us/j/830683709)
+
 ## Prerequisites
 Students are expected to have solid programming experience in Python or with an equivalent programming language. This class is intended to be accessible for data scientists who do not necessarily have a background in databases, operating systems or distributed systems.
 
@@ -112,7 +115,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Mar 30</td>
-<td markdown="span">Distributed File Systems and Databases </td>
+<td markdown="span">Distributed File Systems and Databases <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pdf"> [pdf] </td>
  <th rowspan="3" markdown="1">[Programming Homework 2]</th>
 </tr>
 <tr>
