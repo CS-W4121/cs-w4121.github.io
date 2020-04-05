@@ -264,7 +264,7 @@ To submit, include your Jupyter notebook files.  (6 points for code)
 
 **Question 10** (2 points) Spark Streaming can also be used to send data via TCP sockets. The Emitter in this case will wait on a socket connection request from the receiver, and upon accepting the connection request it will start sending data. Do you think such data server design is feasible and efficient? Briefly explain.
 
-**Questions 11 ** (2 points) How many hours did you spend in this assignment?
+**Questions 11** (2 points) How many hours did you spend in this assignment?
 
 ## Submission Instructions
 
