@@ -121,7 +121,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Apr 13</td>
-<td markdown="span">Spark </td>
+<td markdown="span">Spark and Streaming</td>
 </tr>
 <tr>
 <td markdown="span">Apr 20</td>
