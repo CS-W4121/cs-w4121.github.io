@@ -282,7 +282,7 @@ For example, `g1_asaf_assignment2.tar.gz`.
 
 Inside each folder, in addition to Jupyter notebook and python files, there should be an additional file named `config` which describes configurations or addition step you did to run the three tasks mentioned below.
 
-You also need to provide a `config` file which describes configurations or addition step you did to run the **following 3 tasks on a single Spark node **
+You also need to provide a `config` file which describes configurations or addition step you did to run the **following 3 tasks on a single Spark node**
 
 1. Use the program in Part 1 Task 2 to take "enwiki_small.xml" as input to generate the graph.
 2. Use the program in Part 1 Task 3 to take the graph you just generated and output a rank list of the articles in the dataset.
