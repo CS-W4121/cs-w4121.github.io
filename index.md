@@ -129,11 +129,11 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 <!---
 <th rowspan="3" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw3.md %})</th>
 -->
-<th rowspan="2" markdown="1">[Programming Homework 3]</th>
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
 <td markdown="span">Tensorflow </td>
+<th rowspan="2" markdown="1">[Programming Homework 3]</th>
 </tr>
 <tr>
 <td markdown="span">May 4</td>
