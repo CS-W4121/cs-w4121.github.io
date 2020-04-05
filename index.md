@@ -113,7 +113,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 <tr>
 <td markdown="span">Mar 30</td>
 <td markdown="span"> Key-value Stores and Single DB architecture <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%204%20-%20single%20DB%20architecture.pdf"> [pdf] </a> Partitioning <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pdf"> [pdf]</a> </td>
- <th rowspan="4" markdown="1">[Programming Homework 2]</th>
+ <th rowspan="4" markdown="1">[Programming Homework 2]({{ site.baseurl }}{%link homeworks/hw2.md %})</th>
 </tr>
 <tr>
 <td markdown="span">Apr 6</td>
