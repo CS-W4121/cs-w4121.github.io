@@ -117,11 +117,11 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Apr 6</td>
-<td markdown="span"> Distributed File Systems and Transactions <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pdf"> [pdf]</a> MapReduce <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%206%20-%20MapReduce%20and%20Spark.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%206%20-%20MapReduce%20and%20Spark.pdf"> [pdf]</a> </td>
+<td markdown="span"> Distributed File Systems and Transactions <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pdf"> [pdf]</a> </td>
 </tr>
 <tr>
 <td markdown="span">Apr 13</td>
-<td markdown="span">Spark and Streaming</td>
+<td markdown="span">MapReduce, Spark and Streaming <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%206%20-%20MapReduce%20and%20Spark.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%206%20-%20MapReduce%20and%20Spark.pdf"> [pdf]</a></td>
 </tr>
 <tr>
 <td markdown="span">Apr 20</td>
