@@ -126,7 +126,7 @@ You could also refer to [this](https://cloud.google.com/dataproc/docs/guides/sub
 
 
 
-**Question 1.** (4 points) What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
+**Question 1. ** (4 points) What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
 
 Write a spark program to read in the `/enwiki_small.xml` file as a Dataframe and use printSchema() function to print its schema, you could start from something like following. Copy the outputted schema to a __separate txt file__ named __schema.txt__. (6 points)
 
@@ -141,9 +141,8 @@ df = spark.read.format('xml').options(rowTag='page').load('hdfs:/enwiki_small.xm
 ### Best Practices ###
 
 * Delete the cluster after you are done for a coding session, do not leave them on overnight. Otherwise you are going burn through credits really quickly.
-
 * Start from small. Start with small files and use one node setup to debug your code. Then try to run your code on bigger files and three-node setup.
-* It is recommended to use Jupyter Notebook to debug your code. But do make sure you have turned off all of your Jupyter notebooks before you submit your job using the web interface.
+* It is recommended to use Jupyter Notebook to debug your code. But do make sure you have shutdown all of your Jupyter notebooks before you submit your job using the web interface.
 * Notice it is possible to use Google Cloud Storage 
 
 
@@ -172,13 +171,13 @@ Those assumptions help you filter out some unnecessary links. Note if the remain
 
 The two columns in the output file should be separated by a `Tab`. You may assume there are no other `Tab`s in the article name.
 
-__Note__: It is recommended to use regular expression to extract links from the documents. Also, try to use the built in functions of spark to sort your results.
+__Note__: It is recommended to use UDF + regular expression to extract links from the documents. Also, try to use the built in functions of spark to sort your results. 
 
 **You should use the default configuration of Spark, HDFS, unless we specify a different one.** 
 
 Set the Spark driver memory to 1GB and the Spark executor memory to 5GB to answer Question 2-7.
 
-For the following questions you will need to use `enwiki_small.xml`as the input file, and output columns into a CSV file and name it p1t2.csv. Separate the columns with a `Tab`.
+For the following questions you will need to use the xmls as the input file, and output columns into a CSV file and name it p1t2.csv. Separate the columns with a `Tab`.
 
 **Question 2.**  (2 points) Use `enwiki_test.xml` as input and run the program locally on a Single Node cluster using 4 cores. What is the completion time of the task?
 
@@ -264,7 +263,7 @@ To submit, include your Jupyter notebook files.  (6 points for code)
 
 **Question 10** (2 points) Spark Streaming can also be used to send data via TCP sockets. The Emitter in this case will wait on a socket connection request from the receiver, and upon accepting the connection request it will start sending data. Do you think such data server design is feasible and efficient? Briefly explain.
 
-**Questions 11** (2 points) How many hours did you spend in this assignment?
+**Questions 11 ** (2 points) How many hours did you spend in this assignment?
 
 ## Submission Instructions
 
@@ -282,7 +281,7 @@ For example, `g1_asaf_assignment2.tar.gz`.
 
 Inside each folder, in addition to Jupyter notebook and python files, there should be an additional file named `config` which describes configurations or addition step you did to run the three tasks mentioned below.
 
-You also need to provide a `config` file which describes configurations or addition step you did to run the **following 3 tasks on a single Spark node**
+You also need to provide a `config` file which describes configurations or addition step you did to run the **following 3 tasks on a single Spark node **
 
 1. Use the program in Part 1 Task 2 to take "enwiki_small.xml" as input to generate the graph.
 2. Use the program in Part 1 Task 3 to take the graph you just generated and output a rank list of the articles in the dataset.
