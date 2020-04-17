@@ -126,7 +126,7 @@ You could also refer to [this](https://cloud.google.com/dataproc/docs/guides/sub
 
 
 
-**Question 1. ** (4 points) What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
+**Question 1.** (4 points) What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
 
 Write a spark program to read in the `/enwiki_small.xml` file as a Dataframe and use printSchema() function to print its schema, you could start from something like following. Copy the outputted schema to a __separate txt file__ named __schema.txt__. (6 points)
 
