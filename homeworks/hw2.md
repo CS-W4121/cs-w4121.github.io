@@ -206,8 +206,8 @@ To submit the assignment you will need to use `enwiki_small.xml`as the input fil
 In this task, you are going to implement the PageRank algorithm, which Google uses to rank the website in the Google Search. We will use it to calculate the rank of the articles in Wikipedia. The algorithm can be summarized as follows:
 
 1. Each article has an initial rank of 1.
-2. On each iteration, the contribution of an article is calculated as `its rank / # of neighbors`.
-3. Update the rank of the article to be `0.15 + 0.85 * contribution`
+2. On each iteration, the contribution of an article A to its neighbor B is calculated as `its rank / # of neighbors`.
+3. Update the rank of the article B to be `0.15 + 0.85 * contribution`
 4. Go to the next iteration.
 
 The output should be a `csv` file containing two columns.
