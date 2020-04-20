@@ -269,7 +269,7 @@ To submit, include your Jupyter notebook files.  (6 points for code)
 
 ### File name
 
-Each group should submit one tar.gz file to Canvas.
+Each group should submit one tar.gz file to Gradescope.
 
 Name the file as `<group_num>_assignment2.tar.gz`.
 For example, `g1_asaf_assignment2.tar.gz`.
