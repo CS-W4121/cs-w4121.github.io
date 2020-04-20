@@ -300,7 +300,7 @@ g1.tar.gz
 │   ├── config
 │   ├── p1t2.py
 │   ├── p1t2.csv
-|	└── p1t2.ipynb
+|	├── p1t2.ipynb
 ├── p1t3
 ├── p2t1
 ├── p2t2
