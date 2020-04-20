@@ -270,6 +270,7 @@ To submit, include your Jupyter notebook files.  (6 points for code)
 ### File name
 
 Each group should submit one zip file to Gradescope.
+Only one teammember need to submit the file, make sure the team members are assigned to the submission.
 
 Name the file as `<group_num>_assignment2.zip`.
 For example, `g1_asaf_assignment2.zip`.
