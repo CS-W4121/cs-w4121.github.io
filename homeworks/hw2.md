@@ -177,7 +177,7 @@ __Note__: It is recommended to use UDF + regular expression to extract links fro
 
 Set the Spark driver memory to 1GB and the Spark executor memory to 5GB to answer Question 2-7.
 
-For the following questions you will need to use the xmls as the input file, and output columns into a CSV file and name it p1t2.csv. Separate the columns with a `Tab`.
+For the following questions you will need to use the xmls as the input file, and output columns into a CSV file. Separate the columns with a `Tab`.
 
 **Question 2.**  (2 points) Use `enwiki_test.xml` as input and run the program locally on a Single Node cluster using 4 cores. What is the completion time of the task?
 
