@@ -49,7 +49,7 @@ This code downloads the CIFAR-10 dataset (described at https://www.cs.toronto.ed
 
 1) We begin by training a simple model locally. There are two things that we want to keep track for this training process: the completion time of the training task and the average examples per second during training. Also keep track of the final accuracy and the loss of the model.
 
-We do this by running the script `train-local.sh` by typing `bash train-local.sh` into the terminal. In the script, we have
+We do this by running the following script:
 ```
 python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
                        --job-dir=/tmp/cifar10 \
@@ -120,8 +120,7 @@ First time that you run a training script, you would also have to uncomment the 
 ## How to Obtain Logs
 You get logs by going to the AI-Platform console on Google Cloud. Click Jobs on the left panel and click the job that you are interested in. ![img](./pics/img1.png)  Then click view logs. Click Download Logs. ![img](./pics/img2.png)  Note that it will only download the last 300 log entries (those that are loaded.) Make sure that you capture the final 300 lines. 
 
-5) After setup is done, run
-`bash train-cloud.sh`
+5) After setup is done, run the following script. Save this in `train-cloud.sh`.
 
 ```
 set -euxo pipefail
