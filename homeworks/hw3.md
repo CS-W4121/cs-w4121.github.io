@@ -186,7 +186,7 @@ For this, we also want to change the --num_gpus parameters to be 4 in the `train
     3. Replace the loss function with `sigmoid_cross_entropy`.
 
 **Deliverables:**
-- Submit your updated files for `model_base.py` and `cifar10_model.py`.
+- Submit your updated files for `model_base.py` and `cifar10_model.py`. This file should reflect the changes in the changed optimizer and loss function.
 
 # Submission Instructions
 
