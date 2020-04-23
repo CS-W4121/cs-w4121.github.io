@@ -273,7 +273,7 @@ Each group should submit one zip file to Gradescope.
 Only one teammember need to submit the file, make sure the team members are assigned to the submission.
 
 Name the file as `<group_num>_assignment2.zip`.
-For example, `g1_asaf_assignment2.zip`.
+For example, `g1_assignment2.zip`.
 
 ### Content - Code
 
@@ -293,7 +293,7 @@ Try to be clear about the instructions to run these steps. The purpose of doing 
 The structure should be something like
 
 ```plain
-g1.tar.gz
+g1.zip
 ├── p1t1
 │	├── schema.txt
 ├── p1t2
