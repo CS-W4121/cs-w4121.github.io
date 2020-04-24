@@ -2,7 +2,7 @@
 layout: "default"
 title: Programming Homework 3: Tensorflow
 ---
-Assignment 3
+Programming Homework 3
 {: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
 ----
 # Tensorflow
