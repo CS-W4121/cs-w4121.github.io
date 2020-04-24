@@ -59,7 +59,7 @@ python cifar10_main.py --data-dir=${PWD}/cifar-10-data \
 The script decides the number of GPUs used in the training process and the number of training steps for the job.
 
 One way of determining timing is to use the Unix utility time. Put time before the command. For example,
-python cifar10_main.py …
+`time python cifar10_main.py …`
 
 An example output given by time is:
 ```
