@@ -170,7 +170,7 @@ For this question, we want to run this with 2 parameter servers and 4 workers.
 - Logs of the training task.
 - Your `cmle_config.yaml` file.
 
-7) Finally, run once more, this time with GPU. To do this, you will have to change the machine type to `complex_model_gpu`.
+7) Finally, run once more, this time with GPU. To do this, you will have to change the machine type to `complex_model_m_gpu`.
 For this, we also want to change the --num_gpus parameters to be 4 in the `train-cloud.sh` file.
 
 **Deliverables:**
@@ -181,12 +181,12 @@ For this, we also want to change the --num_gpus parameters to be 4 in the `train
 # Altering the Neural Network
 
 8) Thus far, we have treated the neural network as a black box. We are now going to alter the neural network that we are going to use to train. We are going to do so in three ways:
-    1. Fill out the function `fully_connected_with_activation` in `cifar10_model.py` such that it is now a Dense layer with `tanh` activation, and then replace the final layer on line 78 in `cifar10_model.py` with `fully_connected_with_activation`.
+    1. Fill out the function `fully_connected_with_activation` in `model_base.py` such that it is now a Dense layer with `tanh` activation, and then replace the final layer on line 78 in `cifar10_model.py` with `fully_connected_with_activation`.
     2. Replace the optimizer of the model with the `Adagrad` optimizer.
     3. Replace the loss function with `sigmoid_cross_entropy`.
 
 **Deliverables:**
-- Submit your updated files for `model_base.py` and `cifar10_model.py`. This file should reflect the changes in the changed optimizer and loss function.
+- Submit your updated files for `model_base.py`, `cifar10_main.py` and `cifar10_model.py`. This file should reflect the changes in the changed optimizer and loss function.
 
 # Submission Instructions
 
