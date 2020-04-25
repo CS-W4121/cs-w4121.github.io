@@ -21,7 +21,7 @@ After completing this programming assignment, students should be able to:
 
 ## Local Training
 ### Setup
-Before we do any local training, we have to do setup for the local training. To do this, on the bottom left of the Google Cloud Platform, click `Launch a VM`. Next, click `Create`. Go to the `Machine Type` and select any machine that has approximately 16GB of memory. Go to the bottom of the page and click `Create`. \\
+Before we do any local training, we have to do setup for the local training. To do this, on the left dropdown menu of the Google Cloud Platform, click `Compute Engine > VM Instances`. Next, click `Create`. Go to the `Machine Type` and select any machine that has approximately 16GB of memory. Go to the bottom of the page and click `Create`. \\
 
 We next have to do setup related to setting up the Python environment.
 ```
