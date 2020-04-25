@@ -307,7 +307,7 @@ g1.zip
 └── README (see below)
 ```
 
-### Content - READ
+### Content - README
 
 Each submission should also include a README to record the answers to the 11 (last 3 optional) questions mentioned in this assignment.
 
