@@ -132,12 +132,12 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">Apr 27</td>
-<td markdown="span">Tensorflow </td>
+<td markdown="span">Systems for Machine Learning <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%208%20-%20Systems%20for%20Machine%20Learning.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%208%20-%20Systems%20for%20Machine%20Learning.pdf"> [pdf]</a></td>
 <th rowspan="2" markdown="1">[Programming Homework 3]({{ site.baseurl }}{%link homeworks/hw3.md %})</th>
 </tr>
 <tr>
 <td markdown="span">May 4</td>
-<td markdown="span">Data Quality and Security</td>
+<td markdown="span">Security and Privacy</td>
 </tr>
 </tbody>
 </table>
