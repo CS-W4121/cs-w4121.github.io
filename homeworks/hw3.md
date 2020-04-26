@@ -1,10 +1,5 @@
----
-layout: "default"
-title: Programming Homework 3: Tensorflow
----
-Programming Homework 3
-{: style="color:black; font-size: 210%; font-weight:700; text-align: center;"}
-----
+# Programming Homework 3: Tensorflow
+
 # Tensorflow
 Due: May 11, 11:59 AM
 
