@@ -286,7 +286,7 @@ You also need to provide a `config` file which describes configurations or addit
 
 1. Use the program in Part 1 Task 2 to take "enwiki_small.xml" as input to generate the graph.
 2. Use the program in Part 1 Task 3 to take the graph you just generated and output a rank list of the articles in the dataset.
-3. (Optional) Use the stream emitter you wrote in Part 2 Task 2 to emit the rank list output in the previous step to a local directory while using the stream emitter you wrote in Part 2 Task 1 to dynamically read the files and generate the output mentioned in Part 2 Task 1.
+3. (Optional) Use the stream emitter you wrote in Part 2 Task 2 to emit the rank list output in the previous step to a local directory while using the stream receiver you wrote in Part 2 Task 1 to dynamically read the files and generate the output mentioned in Part 2 Task 1.
 
 Try to be clear about the instructions to run these steps. The purpose of doing this is to check if your program does what we mentioned in the spec. Do not worry whether your program has the lowest completion time.
 
