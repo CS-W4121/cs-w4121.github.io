@@ -191,7 +191,7 @@ Each group should submit one tar.gz file to Canvas.
 
 Name the file as `<group_num>_assignment2.tar.gz`. For example, `g1_asaf_assignment2.tar.gz`.
 
-In the folder, should be the required graphs and all the written solutions to the problem.
+In the folder, should be the required logs and all the written solutions to the problem.
 
 **Acknowledgments:**
 
