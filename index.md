@@ -137,7 +137,7 @@ Storage and Memory Hierarchy <a href="https://github.com/CS-W4121/cs-w4121.githu
 </tr>
 <tr>
 <td markdown="span">May 4</td>
-<td markdown="span">Security and Privacy</td>
+<td markdown="span">Security and Privacy <a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%209%20-%20Data%20Security%20and%20Compliance.pptx"> [pptx] </a><a href="https://github.com/CS-W4121/cs-w4121.github.io/blob/master/slides/Topic%209%20-%20Data%20Security%20and%20Compliance.pdf"> [pdf]</a></td>
 </tr>
 </tbody>
 </table>
